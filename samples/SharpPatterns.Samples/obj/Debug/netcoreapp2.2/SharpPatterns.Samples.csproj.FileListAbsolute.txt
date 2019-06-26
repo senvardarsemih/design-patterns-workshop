@@ -1,0 +1,14 @@
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\SharpPatterns.Samples.deps.json
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\SharpPatterns.Samples.runtimeconfig.json
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\SharpPatterns.Samples.runtimeconfig.dev.json
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\SharpPatterns.Samples.dll
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\SharpPatterns.Samples.pdb
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\obj\Debug\netcoreapp2.2\SharpPatterns.Samples.csprojAssemblyReference.cache
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\obj\Debug\netcoreapp2.2\SharpPatterns.Samples.csproj.CoreCompileInputs.cache
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\obj\Debug\netcoreapp2.2\SharpPatterns.Samples.AssemblyInfoInputs.cache
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\obj\Debug\netcoreapp2.2\SharpPatterns.Samples.AssemblyInfo.cs
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\obj\Debug\netcoreapp2.2\SharpPatterns.Samples.dll
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\obj\Debug\netcoreapp2.2\SharpPatterns.Samples.pdb
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\StrategyPattern.dll
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\StrategyPattern.pdb
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\obj\Debug\netcoreapp2.2\SharpPatterns.Samples.csproj.CopyComplete

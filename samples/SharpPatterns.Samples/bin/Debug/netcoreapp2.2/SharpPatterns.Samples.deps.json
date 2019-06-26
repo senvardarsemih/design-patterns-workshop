@@ -1,0 +1,36 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v2.2",
+    "signature": "da39a3ee5e6b4b0d3255bfef95601890afd80709"
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v2.2": {
+      "SharpPatterns.Samples/1.0.0": {
+        "dependencies": {
+          "StrategyPattern": "1.0.0"
+        },
+        "runtime": {
+          "SharpPatterns.Samples.dll": {}
+        }
+      },
+      "StrategyPattern/1.0.0": {
+        "runtime": {
+          "StrategyPattern.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "SharpPatterns.Samples/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "StrategyPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
