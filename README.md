@@ -1,1 +1,3 @@
-design-pattern-workshop
+# design patterns workshop 
+
+* Strategy Pattern.
