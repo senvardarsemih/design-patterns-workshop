@@ -10,8 +10,8 @@ namespace SharpPatterns.Tests
         [Fact]
         public void SetContextShouldWorkWithoutException()
         {
-            var context = new CalculatorContext();
-            var exception = Record.Exception(() => context.SetStrategy(new JuniorDevSalaryCalculator()));
+            var context = new FighterContext();
+            var exception = Record.Exception(() => context.SetStrategy(new Ryu()));
 
             exception.ShouldBeNull();
         }
