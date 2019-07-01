@@ -1,4 +1,7 @@
-﻿using StrategyPattern;
+﻿using System;
+using FactoryPattern;
+using FactoryPattern.Base;
+using StrategyPattern;
 using StrategyPattern.Context;
 
 namespace SharpPatterns.Samples
@@ -24,6 +27,20 @@ namespace SharpPatterns.Samples
 
             //END_STRATEGY PATTERN
 
+            Console.WriteLine("Press any key to continue to Factory Pattern Sample...");
+
+            //BEGIN_FACTORY PATTERN
+            GameConsole.InitializeFactories().ExecuteCreation(ConsoleTypes.PlayStation, " 4 Pro")
+                .RunTheGame();
+
+            GameConsole.InitializeFactories().ExecuteCreation(ConsoleTypes.Xbox, " One S")
+                .RunTheGame();
+
+            GameConsole.InitializeFactories().ExecuteCreation(ConsoleTypes.Nintendo, " Switch")
+                .RunTheGame();
+
+            Console.ReadKey();
+            //END_FACTORY PATTERN
         }
     }
 }

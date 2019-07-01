@@ -10,9 +10,13 @@ namespace SharpPatterns.Tests
         [Fact]
         public void SetContextShouldWorkWithoutException()
         {
+            //Arrange
             var context = new FighterContext();
+
+            //Act
             var exception = Record.Exception(() => context.SetStrategy(new Ryu()));
 
+            //Assert
             exception.ShouldBeNull();
         }
     }

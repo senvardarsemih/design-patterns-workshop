@@ -12,3 +12,5 @@ C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\obj\Debug\netcore
 C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\StrategyPattern.dll
 C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\StrategyPattern.pdb
 C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\obj\Debug\netcoreapp2.2\SharpPatterns.Samples.csproj.CopyComplete
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\FactoryPattern.dll
+C:\Repos\design-pattern-workshop\samples\SharpPatterns.Samples\bin\Debug\netcoreapp2.2\FactoryPattern.pdb

@@ -1689,6 +1689,16 @@
           "build/netcoreapp1.0/xunit.runner.visualstudio.props": {}
         }
       },
+      "FactoryPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/FactoryPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/FactoryPattern.dll": {}
+        }
+      },
       "StrategyPattern/1.0.0": {
         "type": "project",
         "framework": ".NETStandard,Version=v2.0",
@@ -5940,6 +5950,11 @@
         "xunit.runner.visualstudio.nuspec"
       ]
     },
+    "FactoryPattern/1.0.0": {
+      "type": "project",
+      "path": "../../src/FactoryPattern/FactoryPattern.csproj",
+      "msbuildProject": "../../src/FactoryPattern/FactoryPattern.csproj"
+    },
     "StrategyPattern/1.0.0": {
       "type": "project",
       "path": "../../src/StrategyPattern/StrategyPattern.csproj",
@@ -5948,6 +5963,7 @@
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v2.2": [
+      "FactoryPattern >= 1.0.0",
       "Microsoft.NET.Test.Sdk >= 16.0.1",
       "Microsoft.NETCore.App >= 2.2.0",
       "Shouldly >= 3.0.2",
@@ -5987,6 +6003,9 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
+            "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj": {
+              "projectPath": "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj"
+            },
             "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj": {
               "projectPath": "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj"
             }

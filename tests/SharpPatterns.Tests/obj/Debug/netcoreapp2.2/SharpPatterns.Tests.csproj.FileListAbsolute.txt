@@ -15,3 +15,5 @@ C:\Repos\design-pattern-workshop\tests\SharpPatterns.Tests\obj\Debug\netcoreapp2
 C:\Repos\design-pattern-workshop\tests\SharpPatterns.Tests\bin\Debug\netcoreapp2.2\StrategyPattern.dll
 C:\Repos\design-pattern-workshop\tests\SharpPatterns.Tests\bin\Debug\netcoreapp2.2\StrategyPattern.pdb
 C:\Repos\design-pattern-workshop\tests\SharpPatterns.Tests\obj\Debug\netcoreapp2.2\SharpPatterns.Tests.csproj.CopyComplete
+C:\Repos\design-pattern-workshop\tests\SharpPatterns.Tests\bin\Debug\netcoreapp2.2\FactoryPattern.dll
+C:\Repos\design-pattern-workshop\tests\SharpPatterns.Tests\bin\Debug\netcoreapp2.2\FactoryPattern.pdb

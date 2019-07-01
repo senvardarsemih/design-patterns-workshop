@@ -14,6 +14,7 @@
   </ItemGroup>
 
   <ItemGroup>
+    <ProjectReference Include="..\..\src\FactoryPattern\FactoryPattern.csproj" />
     <ProjectReference Include="..\..\src\StrategyPattern\StrategyPattern.csproj" />
   </ItemGroup>
 
