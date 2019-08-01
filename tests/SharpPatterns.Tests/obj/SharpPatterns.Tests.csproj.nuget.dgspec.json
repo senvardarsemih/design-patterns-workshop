@@ -1,70 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj": {}
+    "C:\\Repos\\github\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj": {
+    "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj",
-        "projectName": "FactoryPattern",
-        "projectPath": "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj",
-        "packagesPath": "C:\\Users\\Hesapkurdu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\obj\\",
-        "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
-        ],
-        "configFilePaths": [
-          "C:\\Users\\Hesapkurdu\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
-        ],
-        "originalTargetFrameworks": [
-          "netstandard2.0"
-        ],
-        "sources": {
-          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-          "http://repository.hesapkurdu.com:9191/nuget/": {},
-          "https://api.nuget.org/v3/index.json": {}
-        },
-        "frameworks": {
-          "netstandard2.0": {
-            "projectReferences": {}
-          }
-        },
-        "warningProperties": {
-          "warnAsError": [
-            "NU1605"
-          ]
-        }
-      },
-      "frameworks": {
-        "netstandard2.0": {
-          "dependencies": {
-            "NETStandard.Library": {
-              "suppressParent": "All",
-              "target": "Package",
-              "version": "[2.0.3, )",
-              "autoReferenced": true
-            }
-          },
-          "imports": [
-            "net461"
-          ],
-          "assetTargetFallback": true,
-          "warn": true
-        }
-      }
-    },
-    "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj": {
-      "version": "1.0.0",
-      "restore": {
-        "projectUniqueName": "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj",
+        "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj",
         "projectName": "StrategyPattern",
-        "projectPath": "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj",
+        "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj",
         "packagesPath": "C:\\Users\\Hesapkurdu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\obj\\",
+        "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -110,14 +57,120 @@
         }
       }
     },
-    "C:\\Repos\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj": {
+    "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\VisitorPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj",
-        "projectName": "SharpPatterns.Tests",
-        "projectPath": "C:\\Repos\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj",
+        "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\VisitorPattern.csproj",
+        "projectName": "VisitorPattern",
+        "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\VisitorPattern.csproj",
         "packagesPath": "C:\\Users\\Hesapkurdu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\obj\\",
+        "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hesapkurdu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repository.hesapkurdu.com:9191/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Repos\\github\\design-pattern-workshop\\src\\Creational\\FactoryPattern\\FactoryPattern.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\src\\Creational\\FactoryPattern\\FactoryPattern.csproj",
+        "projectName": "FactoryPattern",
+        "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Creational\\FactoryPattern\\FactoryPattern.csproj",
+        "packagesPath": "C:\\Users\\Hesapkurdu\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Creational\\FactoryPattern\\obj\\",
+        "projectStyle": "PackageReference",
+        "fallbackFolders": [
+          "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
+        ],
+        "configFilePaths": [
+          "C:\\Users\\Hesapkurdu\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        ],
+        "originalTargetFrameworks": [
+          "netstandard2.0"
+        ],
+        "sources": {
+          "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+          "http://repository.hesapkurdu.com:9191/nuget/": {},
+          "https://api.nuget.org/v3/index.json": {}
+        },
+        "frameworks": {
+          "netstandard2.0": {
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        }
+      },
+      "frameworks": {
+        "netstandard2.0": {
+          "dependencies": {
+            "NETStandard.Library": {
+              "suppressParent": "All",
+              "target": "Package",
+              "version": "[2.0.3, )",
+              "autoReferenced": true
+            }
+          },
+          "imports": [
+            "net461"
+          ],
+          "assetTargetFallback": true,
+          "warn": true
+        }
+      }
+    },
+    "C:\\Repos\\github\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj",
+        "projectName": "SharpPatterns.Tests",
+        "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj",
+        "packagesPath": "C:\\Users\\Hesapkurdu\\.nuget\\packages\\",
+        "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -137,11 +190,14 @@
         "frameworks": {
           "netcoreapp2.2": {
             "projectReferences": {
-              "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj": {
-                "projectPath": "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj"
+              "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj": {
+                "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj"
               },
-              "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj": {
-                "projectPath": "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj"
+              "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\VisitorPattern.csproj": {
+                "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\VisitorPattern.csproj"
+              },
+              "C:\\Repos\\github\\design-pattern-workshop\\src\\Creational\\FactoryPattern\\FactoryPattern.csproj": {
+                "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Creational\\FactoryPattern\\FactoryPattern.csproj"
               }
             }
           }

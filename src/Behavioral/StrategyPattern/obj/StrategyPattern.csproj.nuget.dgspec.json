@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Repos\\github\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj": {}
+    "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj": {}
   },
   "projects": {
-    "C:\\Repos\\github\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj": {
+    "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj",
-        "projectName": "FactoryPattern",
-        "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj",
+        "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj",
+        "projectName": "StrategyPattern",
+        "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj",
         "packagesPath": "C:\\Users\\Hesapkurdu\\.nuget\\packages\\",
-        "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\FactoryPattern\\obj\\",
+        "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

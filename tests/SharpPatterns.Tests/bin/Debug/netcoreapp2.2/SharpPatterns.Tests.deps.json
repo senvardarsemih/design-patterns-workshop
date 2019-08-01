@@ -12,6 +12,7 @@
           "Microsoft.NET.Test.Sdk": "16.0.1",
           "Shouldly": "3.0.2",
           "StrategyPattern": "1.0.0",
+          "VisitorPattern": "1.0.0",
           "xunit": "2.4.0",
           "xunit.runner.visualstudio": "2.4.0"
         },
@@ -1081,6 +1082,11 @@
         "runtime": {
           "StrategyPattern.dll": {}
         }
+      },
+      "VisitorPattern/1.0.0": {
+        "runtime": {
+          "VisitorPattern.dll": {}
+        }
       }
     }
   },
@@ -1635,6 +1641,11 @@
       "sha512": ""
     },
     "StrategyPattern/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "VisitorPattern/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

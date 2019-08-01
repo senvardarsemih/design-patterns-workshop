@@ -1708,6 +1708,16 @@
         "runtime": {
           "bin/placeholder/StrategyPattern.dll": {}
         }
+      },
+      "VisitorPattern/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/VisitorPattern.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/VisitorPattern.dll": {}
+        }
       }
     }
   },
@@ -5952,13 +5962,18 @@
     },
     "FactoryPattern/1.0.0": {
       "type": "project",
-      "path": "../../src/FactoryPattern/FactoryPattern.csproj",
-      "msbuildProject": "../../src/FactoryPattern/FactoryPattern.csproj"
+      "path": "../../src/Creational/FactoryPattern/FactoryPattern.csproj",
+      "msbuildProject": "../../src/Creational/FactoryPattern/FactoryPattern.csproj"
     },
     "StrategyPattern/1.0.0": {
       "type": "project",
-      "path": "../../src/StrategyPattern/StrategyPattern.csproj",
-      "msbuildProject": "../../src/StrategyPattern/StrategyPattern.csproj"
+      "path": "../../src/Behavioral/StrategyPattern/StrategyPattern.csproj",
+      "msbuildProject": "../../src/Behavioral/StrategyPattern/StrategyPattern.csproj"
+    },
+    "VisitorPattern/1.0.0": {
+      "type": "project",
+      "path": "../../src/Behavioral/VisitorPattern/VisitorPattern.csproj",
+      "msbuildProject": "../../src/Behavioral/VisitorPattern/VisitorPattern.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -5968,6 +5983,7 @@
       "Microsoft.NETCore.App >= 2.2.0",
       "Shouldly >= 3.0.2",
       "StrategyPattern >= 1.0.0",
+      "VisitorPattern >= 1.0.0",
       "xunit >= 2.4.0",
       "xunit.runner.visualstudio >= 2.4.0"
     ]
@@ -5979,11 +5995,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj",
+      "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj",
       "projectName": "SharpPatterns.Tests",
-      "projectPath": "C:\\Repos\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj",
+      "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\SharpPatterns.Tests.csproj",
       "packagesPath": "C:\\Users\\Hesapkurdu\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\obj\\",
+      "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\tests\\SharpPatterns.Tests\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
@@ -6003,11 +6019,14 @@
       "frameworks": {
         "netcoreapp2.2": {
           "projectReferences": {
-            "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj": {
-              "projectPath": "C:\\Repos\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj"
+            "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj": {
+              "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\StrategyPattern\\StrategyPattern.csproj"
             },
-            "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj": {
-              "projectPath": "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj"
+            "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\VisitorPattern.csproj": {
+              "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\VisitorPattern.csproj"
+            },
+            "C:\\Repos\\github\\design-pattern-workshop\\src\\Creational\\FactoryPattern\\FactoryPattern.csproj": {
+              "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Creational\\FactoryPattern\\FactoryPattern.csproj"
             }
           }
         }

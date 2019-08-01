@@ -14,8 +14,9 @@
   </ItemGroup>
 
   <ItemGroup>
-    <ProjectReference Include="..\..\src\FactoryPattern\FactoryPattern.csproj" />
-    <ProjectReference Include="..\..\src\StrategyPattern\StrategyPattern.csproj" />
+    <ProjectReference Include="..\..\src\Behavioral\VisitorPattern\VisitorPattern.csproj" />
+    <ProjectReference Include="..\..\src\Creational\FactoryPattern\FactoryPattern.csproj" />
+    <ProjectReference Include="..\..\src\Behavioral\StrategyPattern\StrategyPattern.csproj" />
   </ItemGroup>
 
 </Project>

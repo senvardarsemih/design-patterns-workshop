@@ -50,7 +50,6 @@
       "path": "netstandard.library/2.0.3",
       "files": [
         ".nupkg.metadata",
-        ".signature.p7s",
         "LICENSE.TXT",
         "THIRD-PARTY-NOTICES.TXT",
         "build/netstandard2.0/NETStandard.Library.targets",
@@ -186,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj",
+      "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj",
       "projectName": "StrategyPattern",
-      "projectPath": "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj",
+      "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\StrategyPattern\\StrategyPattern.csproj",
       "packagesPath": "C:\\Users\\Hesapkurdu\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\design-pattern-workshop\\src\\StrategyPattern\\obj\\",
+      "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\StrategyPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

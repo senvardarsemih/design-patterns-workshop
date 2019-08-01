@@ -185,11 +185,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj",
-      "projectName": "FactoryPattern",
-      "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\FactoryPattern\\FactoryPattern.csproj",
+      "projectUniqueName": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\VisitorPattern.csproj",
+      "projectName": "VisitorPattern",
+      "projectPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\VisitorPattern.csproj",
       "packagesPath": "C:\\Users\\Hesapkurdu\\.nuget\\packages\\",
-      "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\FactoryPattern\\obj\\",
+      "outputPath": "C:\\Repos\\github\\design-pattern-workshop\\src\\Behavioral\\VisitorPattern\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
